@@ -10,4 +10,4 @@ This dashboard provides a visual summary of product sales performance of year 20
 * Includes dynamic visualizations for quantity and value by product line, monthly trends, and geographic distribution.
 
   DASHBOARD
-  ![DASHBOARD](image/PBI_Products_Sales_Analysis_with_Dashboard)
+  ![DASHBOARD](image/PBI_Products_Sales_Dashboard.png)
