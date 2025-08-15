@@ -9,5 +9,5 @@ This dashboard provides a visual summary of product sales performance of year 20
 * Product Lines: Classic Cars, Vintage Cars, Motorcycles, and more  
 * Includes dynamic visualizations for quantity and value by product line, monthly trends, and geographic distribution.
 
-  DASHBOARD
+  DASHBOARD  
   ![DASHBOARD](image/PBI_Products_Sales_Dashboard.png)
