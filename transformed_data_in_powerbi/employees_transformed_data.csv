@@ -1,0 +1,24 @@
+employeeNumber,Emp_Full_Name,extension,email,officeCode,reportsTo,jobTitle,username,city,country
+1002,Diane Murphy,x5800,dmurphy@classicmodelcars.com,1,NULL,President,dmurphy,San Francisco,USA
+1056,Mary Patterson,x4611,mpatterso@classicmodelcars.com,1,1002,VP Sales,mpatterso,San Francisco,USA
+1076,Jeff Firrelli,x9273,jfirrelli@classicmodelcars.com,1,1002,VP Marketing,jfirrelli,San Francisco,USA
+1143,Anthony Bow,x5428,abow@classicmodelcars.com,1,1056,Sales Manager (NA),abow,San Francisco,USA
+1165,Leslie Jennings,x3291,ljennings@classicmodelcars.com,1,1143,Sales Rep,ljennings,San Francisco,USA
+1166,Leslie Thompson,x4065,lthompson@classicmodelcars.com,1,1143,Sales Rep,lthompson,San Francisco,USA
+1088,William Patterson,x4871,wpatterson@classicmodelcars.com,6,1056,Sales Manager (APAC),wpatterson,Sydney,Australia
+1102,Gerard Bondur,x5408,gbondur@classicmodelcars.com,4,1056,Sale Manager (EMEA),gbondur,Paris,France
+1188,Julie Firrelli,x2173,jfirrelli@classicmodelcars.com,2,1143,Sales Rep,jfirrelli,Boston,USA
+1216,Steve Patterson,x4334,spatterson@classicmodelcars.com,2,1143,Sales Rep,spatterson,Boston,USA
+1286,Foon Yue Tseng,x2248,ftseng@classicmodelcars.com,3,1143,Sales Rep,ftseng,NYC,USA
+1323,George Vanauf,x4102,gvanauf@classicmodelcars.com,3,1143,Sales Rep,gvanauf,NYC,USA
+1337,Loui Bondur,x6493,lbondur@classicmodelcars.com,4,1102,Sales Rep,lbondur,Paris,France
+1370,Gerard Hernandez,x2028,ghernande@classicmodelcars.com,4,1102,Sales Rep,ghernande,Paris,France
+1401,Pamela Castillo,x2759,pcastillo@classicmodelcars.com,4,1102,Sales Rep,pcastillo,Paris,France
+1501,Larry Bott,x2311,lbott@classicmodelcars.com,7,1102,Sales Rep,lbott,London,UK
+1504,Barry Jones,x102,bjones@classicmodelcars.com,7,1102,Sales Rep,bjones,London,UK
+1611,Andy Fixter,x101,afixter@classicmodelcars.com,6,1088,Sales Rep,afixter,Sydney,Australia
+1612,Peter Marsh,x102,pmarsh@classicmodelcars.com,6,1088,Sales Rep,pmarsh,Sydney,Australia
+1619,Tom King,x103,tking@classicmodelcars.com,6,1088,Sales Rep,tking,Sydney,Australia
+1621,Mami Nishi,x101,mnishi@classicmodelcars.com,5,1056,Sales Rep,mnishi,Tokyo,Japan
+1625,Yoshimi Kato,x102,ykato@classicmodelcars.com,5,1621,Sales Rep,ykato,Tokyo,Japan
+1702,Martin Gerard,x2312,mgerard@classicmodelcars.com,4,1102,Sales Rep,mgerard,Paris,France
